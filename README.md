@@ -33,8 +33,9 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > Bank of Abyssinia
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> Figma
+> https://www.figma.com/design/VC5RRSmRb85zJzn0sjKzDV/Abyssini-Bank-UI?node-id=0-1&p=f&t=uPoCoeIPfO1iLzi9-0
